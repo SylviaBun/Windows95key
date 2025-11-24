@@ -1,0 +1,23 @@
+{
+	id: 'ca3a0e75-e9a0-483a-b5e9-a30e83d81357',
+	name: 'Windows 95key',
+	author: 'SylviaBun',
+	base: 'light',
+	props: {
+		accent: '#00D1D1',
+		bg: '#029696',
+		fg: '#c3c3c3',
+		fgOnAccent: 'rgba(255, 255, 255, 255)',
+		panel: '#008080',
+		panelHeaderFg: '#fdffff',
+		renote: '#c3c3c3',
+		link: '#0827f5',
+		mention: '#800080',
+		hashtag: '#0827f5',
+		header: '#999999',
+		navBg: '#818181',
+		buttonGradateA: '#00D1D1',
+		buttonGradateB: '#029696',
+		pageHeaderFg: '#fdffff',
+	},
+}
